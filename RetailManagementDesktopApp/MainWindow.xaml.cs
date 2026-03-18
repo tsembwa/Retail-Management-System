@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using RetailManagementDesktopApp.ViewModels;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -9,16 +10,19 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RetailManagementDesktopApp
+namespace RetailManagementDesktopApp;
+/// <summary>
+/// Interaction logic for MainWindow.xaml
+/// </summary>
+public partial class MainWindow : Window
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
+    readonly MainViewModel _mainViewModel;
+
+    public MainWindow(MainViewModel mainViewModel)
     {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
+        _mainViewModel = mainViewModel;
+        InitializeComponent();
+
+        MainContentControl.Content = _mainViewModel;
     }
 }

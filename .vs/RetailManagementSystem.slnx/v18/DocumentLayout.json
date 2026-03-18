@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\commands\\newmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\commands\\newmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\attributes\\fieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\attributes\\fieldattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|d:\\tadim\\onedrive\\documents\\tadiwanashe\u0027s documents\\coding\\personal\\portfolio\\retail-management-system\\retailmanagementdesktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085A2B-DDA1-45B4-BA1B-07B7107E7640}|RetailManagementDesktopApp\\RetailManagementDesktopApp.csproj|solutionrelative:retailmanagementdesktopapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\MainWindow.xaml",
-              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\MainWindow.xaml",
-              "RelativeToolTip": "RetailManagementDesktopApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-18T08:41:19.348Z",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\ViewModels\\MainViewModel.cs*",
+              "RelativeToolTip": "RetailManagementDesktopApp\\ViewModels\\MainViewModel.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:10:40.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "RetailManagementDesktopApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FieldAttribute.cs",
+              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\Attributes\\FieldAttribute.cs",
+              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\Attributes\\FieldAttribute.cs",
+              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\Attributes\\FieldAttribute.cs",
+              "RelativeToolTip": "RetailManagementDesktopApp\\Attributes\\FieldAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T08:41:10.243Z",
+              "WhenOpened": "2026-03-18T16:08:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\App.xaml.cs",
+              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\App.xaml.cs",
+              "RelativeToolTip": "RetailManagementDesktopApp\\App.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:16:22.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\Views\\MainView.xaml",
+              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\Views\\MainView.xaml*",
+              "RelativeToolTip": "RetailManagementDesktopApp\\Views\\MainView.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-18T14:14:14.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewMessageCommand.cs",
+              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\Commands\\NewMessageCommand.cs",
+              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\Commands\\NewMessageCommand.cs",
+              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\Commands\\NewMessageCommand.cs",
+              "RelativeToolTip": "RetailManagementDesktopApp\\Commands\\NewMessageCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABDwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T14:11:07.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "RetailManagementDesktopApp\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "D:\\tadim\\OneDrive\\Documents\\Tadiwanashe\u0027s Documents\\Coding\\Personal\\Portfolio\\Retail-Management-System\\RetailManagementDesktopApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "RetailManagementDesktopApp\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA7wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:50:57.667Z",
               "EditorCaption": ""
             }
           ]

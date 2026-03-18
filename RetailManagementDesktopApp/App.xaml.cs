@@ -1,14 +1,22 @@
-﻿using System.Configuration;
-using System.Data;
+﻿using RetailManagementDesktopApp.ViewModels;
 using System.Windows;
 
-namespace RetailManagementDesktopApp
+
+namespace RetailManagementDesktopApp;
+public partial class App : Application
 {
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
-    public partial class App : Application
+    readonly MainViewModel _mainViewModel;
+
+    public App()
     {
+        _mainViewModel = new MainViewModel();
     }
 
+    protected override void OnStartup(StartupEventArgs e)
+    {
+        base.OnStartup(e);
+
+        MainWindow window = new(_mainViewModel);
+        window.Show();
+    }
 }

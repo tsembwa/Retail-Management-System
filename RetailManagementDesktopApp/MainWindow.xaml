@@ -4,9 +4,16 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RetailManagementDesktopApp"
+        xmlns:vm="clr-namespace:RetailManagementDesktopApp.ViewModels" xmlns:views="clr-namespace:RetailManagementDesktopApp.Views"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <ContentControl x:Name="MainContentControl">
+            <ContentControl.Resources>
+                <DataTemplate DataType="{x:Type vm:MainViewModel}">
+                    <views:MainView/>
+                </DataTemplate>
+            </ContentControl.Resources>
+        </ContentControl>
     </Grid>
 </Window>

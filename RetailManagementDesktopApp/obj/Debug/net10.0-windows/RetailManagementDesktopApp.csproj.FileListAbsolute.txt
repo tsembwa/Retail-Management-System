@@ -19,3 +19,10 @@ D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Re
 D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\RetailManagementDesktopApp.pdb
 D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\RetailManagementDesktopApp.genruntimeconfig.cache
 D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\ref\RetailManagementDesktopApp.dll
+D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\Views\MainView.g.cs
+D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\Views\MainView.baml
+D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\Views\HelloView.g.cs
+D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\Views\HelloView.baml
+D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\Views\GoodByeView.g.cs
+D:\tadim\OneDrive\Documents\Tadiwanashe's Documents\Coding\Personal\Portfolio\Retail-Management-System\RetailManagementDesktopApp\obj\Debug\net10.0-windows\Views\GoodByeView.baml
